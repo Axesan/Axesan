@@ -2,9 +2,10 @@
 - 👀 Passionné par l'univers du web et de tout ces aspects .
 - 🌱 La persévérance est la clé du succés !
 - 💞️ PHP , JS , Python || React JS , Symfony , Laravel 💞️ 
+
  -----------------------------------------------------------
  
- Nous vous remercions d'avance de l'intérets que vous porterez à mes projets.
+- Nous vous remercions d'avance de l'intérets que vous porterez à mes projets.
 
 Thank's :) 
 

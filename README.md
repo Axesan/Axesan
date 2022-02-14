@@ -5,7 +5,8 @@
 
  -----------------------------------------------------------
  
-- Nous vous remercions d'avance de l'intérets que vous porterez à mes projets.
+- Je vous remercie d'avance de l'intérets que vous porterez à mes projets.
+- Vous souhaitez laisser un commentaire, ou vous avez des suggestions ? N'hesitez pas ,je me ferais un plaisir de vous lire ! 
 
 Thank's :) 
 
